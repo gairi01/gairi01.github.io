@@ -12,4 +12,4 @@ redirect_from:
 <iframe src="/files/Garv_Airi_resume_2025_26.pdf" width="100%" height="900px" style="border:0;">
 </iframe>
 
-- If the embed doesn’t load, **download here:** [PDF](/files/Garv_Airi_Resume.pdf)
+- If the embed doesn’t load, **download here:** [PDF](/files/Garv_Airi_resume_2025_26.pdf)
